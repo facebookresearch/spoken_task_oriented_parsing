@@ -3,6 +3,8 @@
 
 # Call for Participation
 
+We are excited to announce the Spoken Language Understanding Grand Challenge @ ICASSP 2023!
+
 Task oriented conversational assistants are becoming increasingly popular over the past several years. Such Assistants typically allow voice based interactions to complete a variety of tasks around sending messages, getting weather details, and controlling devices, and so forth. Critically, task oriented systems convert a user's utterance into a semantic parse to allow the execution of tasks from natural language input termed as Spoken Language Understanding (SLU). 
 
 SLU systems typically consist of first Automatic Speech Recognition (ASR) to convert speech to text and then Natural Language Understanding (NLU) to convert text to a semantic parse. Today many advances in this system consist of independent improvements to ASR and NLU components. However recently there has become an increased interest in End-to-End SLU systems with the promise to improve the performance by leveraging acoustic information lost in the intermediate textual representation and preventing cascading errors from ASR. Further, having one unified model has efficiency advantages when deploying assistant systems on-device for low power / mobile devices. In order to facilitate further progression in the SLU community we release the Spoken Task Oriented Parsing (STOP) dataset [1]. STOP is the largest and most complex publicly available SLU dataset to date. 
