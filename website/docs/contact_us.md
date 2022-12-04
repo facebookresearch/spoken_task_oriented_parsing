@@ -1,0 +1,18 @@
+---
+sidebar_position: 7
+---
+
+# Contact Us
+For any questions please post on our github issues: https://github.com/facebookresearch/spoken_task_oriented_parsing/issues 
+
+## Organizers
+* [Akshat Shrivastava](https://akshatsh.github.io/) (Meta) 
+* Paden Tomasello (Meta)
+* Suyoun Kim (Meta)
+* Ali Elkahky (Meta)
+* Daniel Lazar (Meta)
+* Trang Le (Meta)
+* Shan Jiang (Meta)
+* Duc Le (Meta)
+* Aleksandr Livshits (Meta)
+* Ahmed Aly (Meta)
