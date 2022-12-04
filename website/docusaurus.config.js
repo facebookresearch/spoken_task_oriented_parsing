@@ -14,7 +14,7 @@ const config = {
   title: 'STOP: Spoken Task Oriented Parsing',
   tagline: 'A multi-domain compositional spoken language understanding dataset',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/spoken_task_oriented_parsing/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/meta_opensource_logo.svg',
