@@ -77,8 +77,8 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl('docs/call_for_participation')}>
+              Get Started on the Challenge
             </Link>
           </div>
         </div>

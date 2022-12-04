@@ -15,7 +15,7 @@ const config = {
   tagline: 'A multi-domain compositional spoken language understanding dataset',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/meta_opensource_logo.svg',
 
