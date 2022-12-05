@@ -37,7 +37,7 @@ For any questions please post on our github issues: https://github.com/facebookr
 * Trang Le (Meta)
 * Shan Jiang (Meta)
 * Duc Le (Meta)
-* Aleksandr Livshits (Meta)
+* [Aleksandr Livshits](https://www.linkedin.com/in/alivshits/) (Meta)
 * [Ahmed Aly](https://www.linkedin.com/in/ahmed-aly-1a408514/) (Meta)
 
 # References
