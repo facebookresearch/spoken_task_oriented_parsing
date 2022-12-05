@@ -35,7 +35,7 @@ For any questions please post on our github issues: https://github.com/facebookr
 * Ali Elkahky (Meta)
 * Daniel Lazar (Meta)
 * Trang Le (Meta)
-* Shan Jiang (Meta)
+* [Shan Jiang](https://shanjiang.me/) (Meta)
 * Duc Le (Meta)
 * [Aleksandr Livshits](https://www.linkedin.com/in/alivshits/) (Meta)
 * [Ahmed Aly](https://www.linkedin.com/in/ahmed-aly-1a408514/) (Meta)
