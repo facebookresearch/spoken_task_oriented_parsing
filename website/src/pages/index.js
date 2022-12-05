@@ -17,6 +17,18 @@ import styles from './styles.module.css';
 
 const features = [
   {
+    title: 'Updates',
+    description: (
+      <>
+        <ul>
+          <li>We just announced the call for participation for the Spoken Language Understanding (SLU) challenge @ ICASSP 2023, check out the <a href='docs/call_for_participation'>call for participation</a></li>
+          <li>Our <a href='https://arxiv.org/abs/2207.10643?context=cs'>dataset paper</a> was accepted at SLT 2022! </li>
+          <li>Experiment code is publicly available in <a href='https://github.com/facebookresearch/fairseq/tree/main/examples/audio_nlp/nlu'>fairseq</a>!</li>
+        </ul>
+      </>
+    ),
+  },
+  {
     title: 'Spoken Langauge Understanding Grand Challenge @ ICASSP 2023',
     description: (
       <>
@@ -27,25 +39,18 @@ const features = [
     ),
   },
   {
-    title: 'Baselines and Experiments',
-    description: (
-      <>
-        In order to get started with experimentation: all experiment code, baseline models, and pre-trained checkpoints are available in <a href='https://github.com/facebookresearch/fairseq/tree/main/examples/audio_nlp/nlu'>fairseq.</a>
-      </>
-    ),
-  },
-  {
     title: 'Dataset Paper',
     description: (
       <>
         To learn more details about SLU and Spoken Task Oriented Parsing (STOP)
-        dataset. We encourage you to read our paper <a href='https://arxiv.org/abs/2207.10643?context=cs'>STOP: A dataset for Spoken Task Oriented Semantic Parsing</a>
+        dataset. We encourage you to read our paper <a href='https://arxiv.org/abs/2207.10643?context=cs'>STOP: A dataset for Spoken Task Oriented Semantic Parsing</a>. 
+        In order to get started with experimentation: all experiment code, baseline models, and pre-trained checkpoints are available in <a href='https://github.com/facebookresearch/fairseq/tree/main/examples/audio_nlp/nlu'>fairseq.</a>
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -62,7 +67,7 @@ function Feature({imageUrl, title, description}) {
 
 export default function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={`${siteConfig.title}`}
@@ -88,7 +93,7 @@ export default function Home() {
           <section className={styles.features}>
             <div className="container">
               <div className="row">
-                {features.map(({title, imageUrl, description}) => (
+                {features.map(({ title, imageUrl, description }) => (
                   <Feature
                     key={title}
                     title={title}
