@@ -10,6 +10,8 @@ End-to-end spoken language understanding (SLU) predicts intent directly from aud
 
 ## Citation
 
+Please use the following citation:
+
 ```
 @inproceedings{stop2022,
   author    = {Paden Tomasello and Akshat Shrivastava and Daniel Lazar and Po-Chun Hsu and Duc Le and Adithya Sagar and Ali Elkahky and Jade Copet and Wei-Ning Hsu and Yossef Mordechay and Robin Algayres and Tu Anh Nguyen and Emmanuel Dupoux and Luke Zettlemoyer and Abdelrahman Mohamed},
