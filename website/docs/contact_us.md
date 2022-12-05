@@ -8,7 +8,7 @@ For any questions please post on our github issues: https://github.com/facebookr
 ## Organizers
 * [Akshat Shrivastava](https://akshatsh.github.io/) (Meta) 
 * Paden Tomasello (Meta)
-* Suyoun Kim (Meta)
+* [Suyoun Kim](http://suyoun.kim) (Meta)
 * Ali Elkahky (Meta)
 * Daniel Lazar (Meta)
 * Trang Le (Meta)
