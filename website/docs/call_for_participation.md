@@ -15,13 +15,15 @@ In this challenge participants are tasked with exploring the SLU space on 3 trac
 We will invite the top-5 teams across all tracks to submit a 2-page paper and present it at ICASSP-2023. Accepted papers will be in the ICASSP proceedings, the review process is coordinated by the challenge organizers and the SPGC chairs. There will be 2 winners in the quality track, 2 in the on-device, and 1 in the low-resource. Selection criteria is described in each respective track.
 
 ## Timeline
-* November 28th → Challenge begins
-* December 21st → Submissions Open
-* January 24th → Submission Deadline
-* January 24th to February 3rd → Review Period
-* February 4th → Notification of winners
-* February 10th → Grand Challenge paper acceptance notification
-* February 17th → Camera-ready Grand challenge papers
+All deadlines are Anywhere On Earth (AOE).
+
+* November 28th, 2022 → Challenge begins
+* December 21st, 2022 → Submissions Open
+* January 24th, 2023 → Submission Deadline
+* January 24th, 2023 to February 3rd, 2023 → Review Period
+* February 4th, 2023 → Notification of winners
+* February 10th, 2023 → Grand Challenge paper acceptance notification
+* February 17th, 2023 → Camera-ready Grand challenge papers
 
 ## Contact Us
 For any questions please post on our github issues: https://github.com/facebookresearch/spoken_task_oriented_parsing/issues 
