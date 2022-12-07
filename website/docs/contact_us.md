@@ -11,7 +11,7 @@ For any questions please post on our github issues: https://github.com/facebookr
 * Suyoun Kim (Meta)
 * Ali Elkahky (Meta)
 * Daniel Lazar (Meta)
-* Trang Le (Meta)
+* [Trang Le](https://www.linkedin.com/in/trang-le-minh-b888b115b/) (Meta)
 * [Shan Jiang](https://shanjiang.me/) (Meta)
 * Duc Le (Meta)
 * [Aleksandr Livshits](https://www.linkedin.com/in/alivshits/) (Meta)
