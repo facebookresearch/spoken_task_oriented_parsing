@@ -21,6 +21,7 @@ const features = [
     description: (
       <>
         <ul>
+        <li>We have extended the deadline for the challenge to Feburary 13th 2023 and will be hosting submissions on <a href="https://openreview.net/group?id=ICASSP%2F2023%2FGrand_Challenge">Open Review</a>, check out the <a href='docs/submissions'>submissions page</a></li>
           <li>We just announced the call for participation for the Spoken Language Understanding (SLU) challenge @ ICASSP 2023, check out the <a href='docs/call_for_participation'>call for participation</a></li>
           <li>Our <a href='https://arxiv.org/abs/2207.10643?context=cs'>dataset paper</a> was accepted at SLT 2022! </li>
           <li>Experiment code is publicly available in <a href='https://github.com/facebookresearch/fairseq/tree/main/examples/audio_nlp/nlu'>fairseq</a>!</li>

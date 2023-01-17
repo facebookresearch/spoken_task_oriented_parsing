@@ -19,11 +19,14 @@ All deadlines are Anywhere On Earth (AOE).
 
 * November 28th, 2022 → Challenge begins
 * December 21st, 2022 → Submissions Open
-* January 24th, 2023 → Submission Deadline
-* January 24th, 2023 to February 3rd, 2023 → Review Period
-* February 4th, 2023 → Notification of winners
-* February 10th, 2023 → Grand Challenge paper acceptance notification
-* February 17th, 2023 → Camera-ready Grand challenge papers
+* ~~January 24th, 2023 → Submission Deadline~~
+* ~~January 24th, 2023 to February 3rd, 2023 → Review Period~~
+* ~~February 4th, 2023 → Notification of winners~~
+* ~~February 10th, 2023 → Grand Challenge paper acceptance notification~~
+* ~~February 17th, 2023 → Camera-ready Grand challenge papers~~
+* February 13th, 2023 → Submission Deadline
+* February 18th, 2023 → Notification of winners and paper acceptance
+* February 20th, 2023 → Winners submit their camera ready papers to ICASSP
 
 ## Contact Us
 For any questions please post on our github issues: https://github.com/facebookresearch/spoken_task_oriented_parsing/issues 
